@@ -1,0 +1,86 @@
+#{
+margin: 0;
+padding: 0;
+}
+html, body{
+width: 100%;
+height: 100%;
+font-size:14px;
+font-weight: normal;
+}
+.background{
+        width: 100%;
+	height: 100%;
+	background-image: url("images/bg1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	overflow-y: auto;
+}
+.picture{
+position: absolute;
+ top: 18%;
+ left: 15%;
+border-style: solid;
+border-width: "10px";
+ 
+}
+.content{
+position: absolute;
+top:15%;
+left: 35%;
+
+}
+.content p{
+font-size: 450%;
+color: #ff0000;
+}
+.content p1{
+position: absolute;
+top: 22%;
+font-size: 200%;
+}
+.content p2{
+position: relative;
+top:45%;
+font-size: 175%;
+}
+.content p3
+{
+position: relative;
+top: 80%;
+
+font-size: 250%;
+}
+.images{
+position: absolute;
+top:85%;
+left:30%
+}
+.images p4{
+position: static;
+top:65%
+left: 30%
+margin-top:20px; 
+margin-bottom:20px
+}
+.caption{
+position: relative;
+top: 98%;
+left: 33%;
+
+}
+.caption p{
+position: static;
+word-spacing: 2.5cm;
+}
+.caption p1{
+position: absolute;
+top: 99%;
+left: 50%;
+}
+
+
+
+
+
