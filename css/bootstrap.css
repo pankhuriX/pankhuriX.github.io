@@ -166,7 +166,7 @@ a {
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
 }
-
+e
 a:hover {
   color: #0056b3;
   text-decoration: underline;
@@ -4884,7 +4884,8 @@ input[type="button"].btn-block {
    border-radius: 0.3rem;
 }
 .back{
-  background-image: url("images/my.jpg");
+  background-color:"black";
+  font-color: white;
   background-position: 0% 25%;
     background-size: cover;
     background-repeat: no-repeat;
