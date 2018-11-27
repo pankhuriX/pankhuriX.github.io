@@ -4880,12 +4880,14 @@ input[type="button"].btn-block {
 .jumbotron {
   padding: 2rem 1rem;
   margin-bottom: 2rem;
- background-image: url("images/my.jpg");
+ color: white;
+   border-radius: 0.3rem;
+}
+.back{
+  background-image: url("images/my.jpg");
   background-position: 0% 25%;
     background-size: cover;
     background-repeat: no-repeat;
-    color: white;
-  border-radius: 0.3rem;
 }
 
 @media (min-width: 576px) {
