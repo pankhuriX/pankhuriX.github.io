@@ -4878,19 +4878,11 @@ input[type="button"].btn-block {
 }
 
 .jumbotron {
-  padding: 2rem 1rem;
+  padding: 3rem 1rem;
   margin-bottom: 2rem;
  backgroung-color: #fc3e08b0;
    border-radius: 0.3rem;
 }
-.back{
-  background-color:"black";
-  font-color: white;
-  background-position: 0% 25%;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
 @media (min-width: 576px) {
   .jumbotron {
     padding: 4rem 2rem;
